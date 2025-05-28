@@ -1,1 +1,1 @@
-# MathIsGood.github.io
+# MathIsGood
